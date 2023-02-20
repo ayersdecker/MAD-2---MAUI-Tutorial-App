@@ -1,0 +1,1 @@
+C:\Users\draye\source\repos\MAD-2---MAUI-Tutorial-App\MyMauiApp\Phoneword\Phoneword.csproj;x64

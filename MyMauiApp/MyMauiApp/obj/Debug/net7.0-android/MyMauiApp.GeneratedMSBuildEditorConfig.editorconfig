@@ -12,33 +12,33 @@ build_property.EnableSingleFileAnalyzer = true
 build_property.EnableTrimAnalyzer = false
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = MyMauiApp
-build_property.ProjectDir = C:\Users\ayers\source\repos\MAD-2---MAUI-Tutorial-App\MyMauiApp\MyMauiApp\
+build_property.ProjectDir = C:\Users\draye\Source\Repos\MAD-2---MAUI-Tutorial-App\MyMauiApp\MyMauiApp\
 
-[C:/Users/ayers/source/repos/MAD-2---MAUI-Tutorial-App/MyMauiApp/MyMauiApp/App.xaml]
+[C:/Users/draye/Source/Repos/MAD-2---MAUI-Tutorial-App/MyMauiApp/MyMauiApp/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MyMauiApp.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/ayers/source/repos/MAD-2---MAUI-Tutorial-App/MyMauiApp/MyMauiApp/AppShell.xaml]
+[C:/Users/draye/Source/Repos/MAD-2---MAUI-Tutorial-App/MyMauiApp/MyMauiApp/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MyMauiApp.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/ayers/source/repos/MAD-2---MAUI-Tutorial-App/MyMauiApp/MyMauiApp/MainPage.xaml]
+[C:/Users/draye/Source/Repos/MAD-2---MAUI-Tutorial-App/MyMauiApp/MyMauiApp/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MyMauiApp.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/ayers/source/repos/MAD-2---MAUI-Tutorial-App/MyMauiApp/MyMauiApp/Resources/Styles/Colors.xaml]
+[C:/Users/draye/Source/Repos/MAD-2---MAUI-Tutorial-App/MyMauiApp/MyMauiApp/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MyMauiApp.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/ayers/source/repos/MAD-2---MAUI-Tutorial-App/MyMauiApp/MyMauiApp/Resources/Styles/Styles.xaml]
+[C:/Users/draye/Source/Repos/MAD-2---MAUI-Tutorial-App/MyMauiApp/MyMauiApp/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MyMauiApp.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
